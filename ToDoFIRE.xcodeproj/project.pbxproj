@@ -14,7 +14,7 @@
 		881FB6702E3C203600AD8EB3 /* Exceptions for "ToDoFIRE" folder in "ToDoFIRE" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				"Supporting files/Info.plist",
 			);
 			target = 881FB65D2E3C203500AD8EB3 /* ToDoFIRE */;
 		};
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PYDBUVKJ9J;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ToDoFIRE/Info.plist;
+				INFOPLIST_FILE = "ToDoFIRE/Supporting files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -179,7 +179,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = PYDBUVKJ9J;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ToDoFIRE/Info.plist;
+				INFOPLIST_FILE = "ToDoFIRE/Supporting files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
